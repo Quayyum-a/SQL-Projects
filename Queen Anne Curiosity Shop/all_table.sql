@@ -1,0 +1,1 @@
+select * from customer, item, sale, sale_item
